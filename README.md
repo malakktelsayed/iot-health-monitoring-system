@@ -77,7 +77,7 @@ This project uses an ESP32 microcontroller to collect data from multiple biomedi
 
 ## 📈 ECG Dashboard
 
-![ECG](images/ecg-dashboard.jpj)
+![ECG](images/ecg-dashboard.jpg)
 
 ---
 
